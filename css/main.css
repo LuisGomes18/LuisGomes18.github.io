@@ -11,3 +11,21 @@ main {
     text-align: center;
     top: 250px;
 }
+
+.material-symbols-outlined {
+    padding: 0;
+    margin: 0;
+}
+
+.projetos {
+    color: black;
+    text-decoration: none;
+    left: -50px;
+}
+
+.sobre_mim {
+    color: black;
+    text-decoration: none;
+    bottom: 44px;
+    left: 130px;
+}
