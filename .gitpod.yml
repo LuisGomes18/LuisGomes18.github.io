@@ -1,5 +1,0 @@
-ports:
-  - port: 50000
-    visibility: public
-    onOpen: open-preview
-    protocol: https
